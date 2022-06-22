@@ -45,49 +45,49 @@ Methodology: While the fine details of the methodology followed in this project 
 ### 13. Data Splitting
 ### 14. Standard Machine Learning Models
 - Build the Models 'Train the Models'
-- Random Forest Classifier
-- Gradient Boosting Classifier
-- Histogram-based Gradient Boosting Classification Tree
-- AdaBoost Classifier
-- Extra Trees Classifier
-- K Neighbors Classifier
-- Naive Bayes Classifiers
-- Naive Bayes Classifier for Multivariate Bernoulli
-- Decision Tree Classifier
-- Logistic Regression Classifier
-- Logistic Regression CV Classifier
-- Stochastic Gradient Descent Classifier
-- Linear Perceptron Classifier
-- XGBoost Classifiers
-- Support Vector Machines Classifiers
-- Linear Support Vector Classification
-- Multilayer Perceptron Classifier
+  - Random Forest Classifier
+  - Gradient Boosting Classifier
+  - Histogram-based Gradient Boosting Classification Tree
+  - AdaBoost Classifier
+  - Extra Trees Classifier
+  - K Neighbors Classifier
+  - Naive Bayes Classifiers
+  - Naive Bayes Classifier for Multivariate Bernoulli
+  - Decision Tree Classifier
+  - Logistic Regression Classifier
+  - Logistic Regression CV Classifier
+  - Stochastic Gradient Descent Classifier
+  - Linear Perceptron Classifier
+  - XGBoost Classifiers
+  - Support Vector Machines Classifiers
+  - Linear Support Vector Classification
+  - Multilayer Perceptron Classifier
 - Predication X_test
 - Models Evaluation
-- Accuracy Score
-- Classification Report
-- Confusion Matrix
+  - Accuracy Score
+  - Classification Report
+  - Confusion Matrix
 ### 15. Optmization Machine Learning Models
 - random grid for CPU Machine Learning Models
 - Hyperparameters for CPU Machine Learning Models
 - Build the Models 'Train the Models'
-- Random Forest Classifier
-- Gradient Boosting Classifier
-- Histogram-based Gradient Boosting Classification Tree
-- AdaBoost Classifier
-- Extra Trees Classifier
-- K Neighbors Classifier
-- Decision Tree Classifier
-- Logistic Regression Classifier
-- Logistic Regression CV Classifier
-- Stochastic Gradient Descent Classifier
-- Linear Perceptron Classifier
-- Support Vector Machines Classifiers
+  - Random Forest Classifier
+  - Gradient Boosting Classifier
+  - Histogram-based Gradient Boosting Classification Tree
+  - AdaBoost Classifier
+  - Extra Trees Classifier
+  - K Neighbors Classifier
+  - Decision Tree Classifier
+  - Logistic Regression Classifier
+  - Logistic Regression CV Classifier
+  - Stochastic Gradient Descent Classifier
+  - Linear Perceptron Classifier
+  - Support Vector Machines Classifiers
 - Predication X_test
 - Models Evaluation
-- Accuracy Score
-- Classification Report
-- Confusion Matrix
+  - Accuracy Score
+  - Classification Report
+  - Confusion Matrix
 
 Results: For this particular classification problem, the highest performing model is that of Extra Trees Classifier which achieved an accuracy score of 93.8% with a F1 Score of xx, Recall of yy, and xyz score of zz.
 
